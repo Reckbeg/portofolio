@@ -1,19 +1,26 @@
 # Rofi Ibnu Haafizh - Portfolio
 
-Personal portfolio website. HR professional with 5+ years of experience across startup, technology, and education industries.
+A restrained casebook portfolio for Rofi's HR operations, workflow mapping, and lightweight automation work.
 
-**Focus areas:** HR Operations, Talent Acquisition, HR Automation, People Development, AI & Workflow Automation.
+## Production direction
 
-## Live Site
+The page leads with a detailed PeopleSheet case study and an actual workbook preview, presents Liminaly as secondary product-building proof, and keeps approach, experience, Hakmu, and contact concise.
 
-Visit: [https://reckbeg.github.io/portofolio](https://reckbeg.github.io/portofolio)
+PeopleSheet is a free public-good template library for Indonesian HR work. It is not a paid SaaS product.
 
 ## Stack
 
-- HTML + Tailwind CSS (CDN)
-- Plus Jakarta Sans font
-- Vanilla JS (scroll animations, mobile menu)
+- Semantic HTML
+- Local CSS using system fonts
+- Vanilla JavaScript for runtime email reconstruction, active navigation, the mobile menu enhancement, and restrained reveal motion
+- Local product screenshots and an XLSX-derived workbook proof image
 - GitHub Pages hosting
+
+The page has no build step and no external CSS, font, or JavaScript dependency.
+
+## Live site
+
+https://rofiibnu.com/
 
 ## License
 
