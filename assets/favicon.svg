@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <rect width="512" height="512" rx="96" ry="96" fill="#2563eb"/>
-  <text x="256" y="370" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="340" fill="white" letter-spacing="-8">R</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Rofi Ibnu Haafizh">
+  <rect width="512" height="512" rx="96" fill="#064c44"/>
+  <circle cx="410" cy="104" r="38" fill="#d6e9e4"/>
+  <text x="256" y="370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="340" fill="#fbfcfa" letter-spacing="-8">R</text>
 </svg>
